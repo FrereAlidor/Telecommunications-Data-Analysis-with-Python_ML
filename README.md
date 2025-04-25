@@ -5,6 +5,16 @@
 ### Course Introduction
 This project covers various essential aspects of machine learning, focusing on practical data analysis and model implementation using Python. Throughout the course, you'll work on real telecommunications datasets and build fundamental ML skills.
 
+This work has been peer-reviewed and published in the International Journal for Multidisciplinary Research (IJFMR):
+
+Title: "Multi-Model Optimization for Telecom Churn Prediction: A Complete Data Science Approach from Theory to Python Implementation"
+
+Authors: Alidor M. Mbayandjambe, Kevin Nguemdjom, Grevi Nkwimi, Fiston Oshasha, Heritier Mbengandji
+
+Journal: IJFMR, Volume 7, Issue 2, March-April 2025
+
+DOI: https://doi.org/10.36948/ijfmr.2025.v07i02.41263
+
 **File Overview:**
 - `script.py`: Core implementation for each stage of the analysis.
 - **Topics Covered**: Introduction to Machine Learning, Data Processing, Regression Techniques, SVMs, Decision Trees, Ensemble Methods, Clustering, and more.
@@ -82,4 +92,20 @@ This project covers various essential aspects of machine learning, focusing on p
 Wrap-up and key takeaways from the course and project.
 
 ---
+
+----
+
+How to Cite
+
+@article{Mbayandjambe2025TelecomChurn,
+  title     = {Multi-Model Optimization for Telecom Churn Prediction: A Complete Data Science Approach from Theory to Python Implementation},
+  author    = {Mbayandjambe, Alidor and Nguemdjom, Kevin and Nkwimi, Grevi and Oshasha, Fiston and Mbengandji, Heritier},
+  journal   = {International Journal for Multidisciplinary Research (IJFMR)},
+  volume    = {7},
+  number    = {2},
+  pages     = {41263},
+  year      = {2025},
+  month     = {April},
+  doi       = {10.36948/ijfmr.2025.v07i02.41263}
+}
 
